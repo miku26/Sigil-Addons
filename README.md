@@ -1,3 +1,11 @@
-EPUB制作软件[Sigil](https://github.com/Sigil-Ebook/Sigil)插件
+# EPUB制作软件 **[Sigil](https://github.com/Sigil-Ebook/Sigil)** 插件
 
-字体子集化、分章、章节数转化、繁简转化、注释（多看阅读）
+## 功能
+
+| 特性 | 生效情况 |
+| --- | --- |
+| 字体子集化 | ✅ |
+| 章节分章 | ✅ |
+| 注释处理 | ✅ |
+| 小说序号处理 | ✅ |
+| 繁简转换 | ✅ |
